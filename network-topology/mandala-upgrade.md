@@ -55,6 +55,6 @@ The Mandala Upgrade addresses these limitations by introducing a three-layer net
 
 1\. Teranode Layer: Ensures high-speed processing, massive scale.
 
-2\. Overlay Service Layer: Facilitates specialization and efficient handling of business logic.
+2\. Overlay Service: Facilitates specialization and efficient handling of business logic.
 
 3\. Application Layer: Enhances privacy and functionality with p2p communication and validation.
